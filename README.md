@@ -1,5 +1,5 @@
 # Onehub JQuery Library
-```JQuery
+```Javascript
 $.ajax({
     url: 'https://api.onehub.co.ke/v1/sms/send',
     crossDomain: true,
